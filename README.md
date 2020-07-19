@@ -12,6 +12,9 @@
 <p align='left'>
   📫 How to reach me: <a href='mailto:rathod.santosh@outlook.com'>rathod.santosh@outlook.com</a>
 </p>
+
+![Santosh Rathod's github stats](https://github-readme-stats.vercel.app/api?username=rathodsantosh&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)<img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
+
 <!--
 **rathodsantosh/rathodsantosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
